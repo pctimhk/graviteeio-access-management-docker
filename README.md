@@ -15,11 +15,11 @@ $ podman-compose --version
 
 Install via curl
 ```
-$ curl -L https://raw.githubusercontent.com/pctimhk/graviteeio-access-management-docker/master/docker/launch.sh | bash
+$ curl -L https://raw.githubusercontent.com/pctimhk/graviteeio-access-management-docker/master/launch.sh | bash
 ```
 
 > To change default http port, launch previous command with -s parameter
 
 ```
-$ curl -L https://raw.githubusercontent.com/pctimhk/graviteeio-access-management-docker/master/docker/launch.sh | bash -s <port>
+$ curl -L https://raw.githubusercontent.com/pctimhk/graviteeio-access-management-docker/master/launch.sh | bash -s <port>
 ```
